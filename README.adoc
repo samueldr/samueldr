@@ -1,13 +1,11 @@
 ++++
-<div align="center"><a href="https://mobile.nixos.org/"><img src="https://raw.githubusercontent.com/samueldr/samueldr/master/logo.svg" alt="Mobile NixOS" title="Mobile NixOS" width="500" height="130" /></a></div>
+<div align="center"><a href="https://github.com/mobile-nixos/mobile-nixos/"><img src="https://raw.githubusercontent.com/samueldr/samueldr/master/logo.svg" alt="Mobile NixOS" title="Mobile NixOS" width="500" height="130" /></a></div>
 ++++
 
 Hi! 👋
 
-I am working on link:https://mobile.nixos.org/[Mobile NixOS].
+I am working on Mobile NixOS.
 
-Development happens at link:https://github.com/NixOS/mobile-nixos[NixOS/mobile-nixos].
-
-I am also a maintainer and a committer of link:https://github.com/NixOS/nixpkgs[Nixpkgs].
+Development happens at link:https://github.com/mobile-nixos/mobile-nixos[mobile-nixos/mobile-nixos].
 
 Don't forget to checkout the link:https://nixos.org/[NixOS homepage] if you don't know what it is!

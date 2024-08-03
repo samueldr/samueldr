@@ -7,5 +7,3 @@ Hi! 👋
 I am working on Mobile NixOS.
 
 Development happens at link:https://github.com/mobile-nixos/mobile-nixos[mobile-nixos/mobile-nixos].
-
-Don't forget to checkout the link:https://nixos.org/[NixOS homepage] if you don't know what it is!

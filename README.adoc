@@ -1,9 +1,27 @@
-++++
-<div align="center"><a href="https://github.com/mobile-nixos/mobile-nixos/"><img src="https://raw.githubusercontent.com/samueldr/samueldr/master/logo.svg" alt="Mobile NixOS" title="Mobile NixOS" width="500" height="130" /></a></div>
-++++
-
 Hi! 👋
 
-I am working on Mobile NixOS.
+I am an open source focused developer, doing a lot of stuff. I sometimes write link:https://samuel.dionne-riel.com/[on my website].
 
-Development happens at link:https://github.com/mobile-nixos/mobile-nixos[mobile-nixos/mobile-nixos].
+ - link:https://mobile-nixos.github.io/mobile-nixos/[Mobile NixOS], to abstract quirks around Mobile devices
+ - link:https://tow-boot.org/[Tow-Boot], to make the boot experience boring
+ - link:https://jovian-experiments.github.io/Jovian-NixOS/[Jovian NixOS], to get the Steam Deck experience, but using NixOS
+ - link:https://github.com/celun/[celun], an early WIP toolset for building embedded Linux systems
+
+There's also some other stuff here:
+
+ - link:https://github.com/samueldr-wip/[samueldr-wip], WIP stuff, some good, some shenanigans
+
+* * *
+
+See also, misc stuff, nothing ready, but shows my varied skill set.
+
+ - https://github.com/fdtshim/
+ - https://github.com/samueldr/dos4.nix
+ - https://github.com/samueldr/linux-3ds.nix
+ - https://github.com/samueldr/nostatoo
+ - https://github.com/samueldr-wip/OpenCorePkg/blob/bc6ff896333bbc66248ef2c053e97407af69c41c/nix-support/default.nix#L9
+ - https://github.com/samueldr-wip/wip-nix-PKGBUILD
+ - https://github.com/samueldr-android-shenanigans/
+ - https://github.com/fabric-desktop
+ - https://github.com/zepto-ish/zepto-ish
+
